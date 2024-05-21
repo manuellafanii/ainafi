@@ -1,5 +1,5 @@
 
-[![MasterHead](https://ibb.co/3mVC8PM)](https://rishavchanda.io)
+[![MasterHead](https://github.com/ainafi/ainafi/blob/main/LinkedIn%20cover%20-%202.png)]
 <h1 align="center">Hi 👋, I'm Ainafi</h1>
 <h3 align="center">Passionate React Developer & UI/UX Designer: Crafting Intuitive Digital Experiences</h3>
 
