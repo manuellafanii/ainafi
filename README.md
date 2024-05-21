@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpubGozYXl2d3FkdWt3aXo2d2xiaHdmOHRtdW56M2tiYjV5dnl0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://ibb.co/3mVC8PM)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ainafi</h1>
 <h3 align="center">Passionate React Developer & UI/UX Designer: Crafting Intuitive Digital Experiences</h3>
 
