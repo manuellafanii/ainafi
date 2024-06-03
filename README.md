@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Innovative Web Applications**
 
-- 🌱 I’m currently learning **react js and express js**
+- 🌱 I’m currently learning **computer science at ENI**
 
 - 💬 Ask me about **react js and javascript**
 
