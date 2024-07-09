@@ -1,7 +1,7 @@
 
-![MasterHead](https://github.com/ainafi/ainafi/blob/main/LinkedIn%20cover%20-%202.png)
-<h1 align="center">Hi 👋, I'm Ainafi</h1>
-<h3 align="center">Passionate React Developer & UI/UX Designer: Crafting Intuitive Digital Experiences</h3>
+
+<h1 align="center">Hi 👋, I'm Manuella</h1>
+<h3 align="center">Passionate React Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ainafi&label=Profile%20views&color=0e75b6&style=flat" alt="ainafi" /> </p>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU5YXF6YTA5b3M5aXF6cmljaXpwdTVzanM5aXF2bjkyMzd4eG91YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react js and javascript**
 
-- 📫 How to reach me **ainafinaritraraz@gmail.com**
+- 📫 How to reach me **manuellafanii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -36,14 +36,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
